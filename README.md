@@ -46,7 +46,7 @@ It leverages various meteorological parameters to predict future weather trends.
 ## Dataset
 
 - The dataset includes historical weather data with parameters like temperature, humidity, wind speed, etc.
-- You can find the dataset [here](link to dataset).
+- You can find the dataset (https://waterdata.usgs.gov/nwis/dv).
 
 ## Results
 
@@ -55,7 +55,7 @@ It leverages various meteorological parameters to predict future weather trends.
 
 ## Research Paper
 
-- A detailed research paper on this project is published. You can access it (https://waterdata.usgs.gov/nwis/dv).
+- A detailed research paper on this project is published.
 
 ## License
 
